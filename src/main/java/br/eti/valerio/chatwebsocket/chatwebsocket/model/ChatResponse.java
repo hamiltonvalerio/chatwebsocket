@@ -7,8 +7,6 @@ public class ChatResponse {
         this.response = response;
     }
 
-    // Getters and setters
-
     public String getResponse() {
         return response;
     }
